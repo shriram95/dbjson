@@ -1,4 +1,4 @@
-[
+{products:[
   {
     "title": "Vagabond sack",
     "url": "https://storage.googleapis.com/material-vignettes.appspot.com/image/0-0.jpg",
@@ -189,4 +189,4 @@
     "url": "https://storage.googleapis.com/material-vignettes.appspot.com/image/37-0.jpg",
     "price": "$58"
   }
-]
+]}
